@@ -4,11 +4,9 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
-- 🌱 I’m currently learning **Next.Js, Vue.Js, Web3**
-
 - 💬 Ask me about **React.Js, Node.Js, Express.Js, MongoDB**
 
-- 📫 How to reach me **jugal.sce20@sot.pdpu.ac.in**
+- 📫 How to reach me **sonijugal2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
