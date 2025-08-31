@@ -3,6 +3,7 @@
 <h3 align="center">A Passionate Software Engineer Developer From Gujarat India</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
