@@ -1,6 +1,6 @@
 <h1 align="center">Hello I'm Jugal Soni</h1>
 
-<h3 align="center">A Passionate Software Engineer From Gujarat India</h3>
+<h3 align="center">A Passionate Software Engineer From Gujarat, India</h3>
 <br>
 
 <h3 align="left">Connect with me:</h3>
